@@ -245,6 +245,10 @@ class Game:
         s = set([gs.grid[-i-1, i] for i in range(3)])
         if len(s) == 1 and min(s) != 0:
             return s.pop()
+
+        # Draw
+        if 0 not in gs.grid:
+            return True
             
         # nope, not an objective state
         return 0
