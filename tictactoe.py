@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Recriação do Jogo da Velha
+Jogo da Velha contra IA
 
-@author: Prof. Daniel Cavalcanti Jeronymo
+@author: Iuri Schmoeller
 """
 
 from operator import contains
