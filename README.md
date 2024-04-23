@@ -7,4 +7,5 @@ Agente inteligente para jogar famoso Tic Tac Toe ou Jogo da velha, feito em pyth
 ## Requisitos
 
 -Biblioteca pygame
+
 -Biblioteca numpy
