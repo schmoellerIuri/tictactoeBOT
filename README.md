@@ -1,2 +1,9 @@
 #TicTacToeBOT
-A simple AI to play tictactoe against a human player, implemented with the minimax algorithm into the game's decision tree
+
+Agente inteligente para jogar famoso Tic Tac Toe ou Jogo da velha, feito em python com o algoritmo minimax, para mais informações sobre o projeto cheque o pdf:
+
+[Download PDF](https://github.com/schmoellerIuri/tictactoeBOT/blob/master/ReadMe.pdf)
+
+##Requisitos para rodar o projeto:
+-Biblioteca pygame
+-Biblioteca numpy
