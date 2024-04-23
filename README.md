@@ -4,6 +4,7 @@ Agente inteligente para jogar famoso Tic Tac Toe ou Jogo da velha, feito em pyth
 
 [Download PDF](https://github.com/schmoellerIuri/tictactoeBOT/blob/master/ReadMe.pdf)
 
-##Requisitos para rodar o projeto:
+##Requisitos
+
 -Biblioteca pygame
 -Biblioteca numpy
